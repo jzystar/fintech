@@ -8,3 +8,4 @@ unsloth_compiled_cache/
 /grpo_trainer_lora_model
 process_data.ipynb
 /grpo_saved_lora_sentiment
+/grpo_saved_lora_sentiment_single_day
